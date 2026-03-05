@@ -1,7 +1,7 @@
 #  About Me:
 Sri Sundar Rajan Kannan | Master's Biology Student
 
-I thrive at the intersection of wet-lab logic and dry-lab execution . I focus on building robust computational pipelines to decode complex biological systems from the molecular level to clinical outcomes.<br><br>What I'm Doing:<br>🧬  Multi-Omics Integration<br>🧠 Deep Learning<br>🔬 Clinical Data Insights<br>🏗  Pipeline Engineering<br><br>Featured Projects:<br>- Predicting Compound Toxicity using Graph Neural Networks (Chemprop model)<br>- Morphological Analysis of Images Using the Cellpose and Stardist Model: Pre- and Post- Response Evaluation <br>- Proteomic and Clinical Data Analysis <br>- Exploring the Impacts of metabolites and epigenetics on Ageing <br><br>I don't just see data; I see the biology behind the bits.
+I work at the intersection of wet-lab logic and dry-lab execution . I focus on building robust computational pipelines to decode complex biological systems from the molecular level to clinical outcomes.<br><br>What I'm Doing:<br>🧬  Multi-Omics Integration<br>🧠 Deep Learning<br>🔬 Clinical Data Insights<br>🏗  Pipeline Engineering<br><br>Featured Projects:<br>- Predicting Compound Toxicity using Graph Neural Networks (Chemprop model)<br>- Morphological Analysis of Images Using the Cellpose and Stardist Model: Pre- and Post- Response Evaluation <br>- Proteomic and Clinical Data Analysis <br>- Exploring the Impacts of metabolites and epigenetics on Ageing <br><br>I don't just see data; I see the biology behind the bits.
 
 
 ## 🌐 Socials:
