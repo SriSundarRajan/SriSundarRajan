@@ -1,7 +1,22 @@
 #  About Me:
-Sri Sundar Rajan Kannan | Master's Biology Student
+Sri Sundar Rajan Kannan | Computational Biologist
 
-I work at the intersection of wet-lab logic and dry-lab execution . I focus on building robust computational pipelines to decode complex biological systems from the molecular level to clinical outcomes.<br><br>What I'm Doing:<br>🧬  Multi-Omics Integration<br>🧠 Deep Learning<br>🔬 Clinical Data Insights<br>🏗  Pipeline Engineering<br><br>Featured Projects:<br>- Predicting Compound Toxicity using Graph Neural Networks (Chemprop model)<br>[`- Morphological Analysis of Images Using the Cellpose and Stardist Model: Pre- and Post- Response Evaluation`](https://github.com/SriSundarRajan/Morphology_pipeline) <br>- Proteomic and Clinical Data Analysis <br>- Exploring the Impacts of metabolites and epigenetics on Ageing <br><br>I don't just see data; I see the biology behind the bits.
+I work at the intersection of wet-lab logic and dry-lab execution . I focus on building robust computational pipelines to decode complex biological systems from the molecular level to clinical outcomes.<br><br>What I'm Doing:<br>
+🧬 Multi-Omics Integration<br>
+🧬 RNA Seq<br>
+🔬 Clinical Data Insights<br>
+🧠 ML/Deep Learning<br>
+🏗  RAG Pipeline<br><br>
+
+
+Featured Projects:<br>
+[`RAG Pipeline`](https://github.com/SriSundarRajan/R-Centric-RAG-Pipeline)<br>
+[`Morphological Analysis of Images Using the Cellpose and Stardist Model: Pre- and Post- Response Evaluation`](https://github.com/SriSundarRajan/Morphology_pipeline)<br>
+[`RNA Seq Analysis`](https://github.com/SriSundarRajan/RNA-Seq-Analysis-Reproducing-Chilling-Stress-Responses-in-Rice)<br>
+[`ML-Based Alzheimer's Prediction from Proteomics`](https://github.com/SriSundarRajan/Alzheimer_Disease_Prediction_Using_Proteomic_Clinical_Data) <br>
+[`Proteomic Data Analysis`](https://github.com/SriSundarRajan/Endometrial_carcinoma_data_analysis) <br>
+- Predicting Compound Toxicity using Graph Neural Networks (Chemprop model)<br>
+- Exploring the Impacts of metabolites and epigenetics on Ageing <br><br>I don't just see data; I see the biology behind the bits.
 
 
 ## 🌐 Socials:
