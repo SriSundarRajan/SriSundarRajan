@@ -15,6 +15,8 @@ Featured Projects:<br>
 [`RNA Seq Analysis`](https://github.com/SriSundarRajan/RNA-Seq-Analysis-Reproducing-Chilling-Stress-Responses-in-Rice)<br>
 [`ML-Based Alzheimer's Prediction from Proteomics`](https://github.com/SriSundarRajan/Alzheimer_Disease_Prediction_Using_Proteomic_Clinical_Data) <br>
 [`Proteomic Data Analysis`](https://github.com/SriSundarRajan/Endometrial_carcinoma_data_analysis) <br>
+
+Project complete >>>> repo coming soon
 - Predicting Compound Toxicity using Graph Neural Networks (Chemprop model)<br>
 - Exploring the Impacts of metabolites and epigenetics on Ageing <br><br>I don't just see data; I see the biology behind the bits.
 
